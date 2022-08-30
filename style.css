@@ -440,7 +440,7 @@ header .group .create .make-group {
 .container .cards .card-premium img {
     width: auto;
     height: 250px;
-    position: fixed;
+    position: absolute;
     left: 38%;
 }
 
