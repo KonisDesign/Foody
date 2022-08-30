@@ -337,8 +337,10 @@ header .group .create .make-group {
 
 .container .cards .card {
     width: 250px;
+    min-width: 250px;
+    max-width: 250px;
     height: auto;
-    margin-bottom: 100px;
+    margin: 0px 10px 100px 10px;
     border-radius: 18px;
     background-color: #fff;
     display: flex;
@@ -438,8 +440,8 @@ header .group .create .make-group {
 .container .cards .card-premium img {
     width: auto;
     height: 250px;
-    position: absolute;
-    right: -100px;
+    position: fixed;
+    left: 38%;
 }
 
 .container .cards .card-premium .pro {
