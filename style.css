@@ -232,6 +232,7 @@ header .group .create .make-group {
     height: 50px;
     border: none;
     background-color: transparent;
+    color: #2c2220;
     font-size: 17px;
     cursor: pointer;
 }
@@ -420,6 +421,7 @@ header .group .create .make-group {
     border-top: solid 2px #f9f9f9;
     border-radius: 0px 0px 18px 18px;
     background-color: transparent;
+    color: #2c2220;
     font-size: 17px;
     font-weight: 600;
     cursor: pointer;
