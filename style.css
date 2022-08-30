@@ -486,6 +486,12 @@ footer a {
 /*------------------------iPad Pro------------------------*/
 
 @media screen and (max-width: 834px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
     header {
         width: 100%;
         display: none;
